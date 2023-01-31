@@ -1,6 +1,7 @@
 ﻿using ClassLibrary.Exceptions;
 using ClassLibrary.Interfaces;
 
+
 namespace ClassLibrary
 {
     public class Shop

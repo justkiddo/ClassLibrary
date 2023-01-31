@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary.Tests", "ClassLibrary.Tests\ClassLibrary.Tests.csproj", "{22E5F572-C8D6-4B4A-8F5A-235B9C99CDE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.ShopTests", "ClassLibrary.ShopTests\ClassLibrary.ShopTests.csproj", "{4C93E2AD-6658-4355-8984-2B80411D42A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22E5F572-C8D6-4B4A-8F5A-235B9C99CDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E5F572-C8D6-4B4A-8F5A-235B9C99CDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E5F572-C8D6-4B4A-8F5A-235B9C99CDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C93E2AD-6658-4355-8984-2B80411D42A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C93E2AD-6658-4355-8984-2B80411D42A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C93E2AD-6658-4355-8984-2B80411D42A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C93E2AD-6658-4355-8984-2B80411D42A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
